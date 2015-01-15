@@ -1,0 +1,12 @@
+[
+    {
+      "attr": {
+          "data-background": "/img/juju-logo.svg"
+      }
+    },
+    [
+      "index.md",
+      "what-is-juju.md",
+      "why-did-we-build-juju.md"
+    ]
+]

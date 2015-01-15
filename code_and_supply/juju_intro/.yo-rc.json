@@ -1,0 +1,8 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Juju Deploy Happiness",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": false
+  }
+}
