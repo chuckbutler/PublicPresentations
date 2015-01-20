@@ -1,12 +1,34 @@
 [
     {
-      "attr": {
-          "data-background": "/img/juju-logo.svg"
-      }
+        "attr": {
+            "data-background": "/img/juju-logo.svg"
+        }
     },
     [
-      "index.md",
-      "what-is-juju.md",
-      "why-did-we-build-juju.md"
-    ]
+        "index.md",
+        "what-is-juju.md",
+        "why-did-we-build-juju.md"
+    ],
+    "where-does-it-work.md",
+    [
+        "what-is-orchestration.md",
+        "orchestration-is-agility.md",
+        "distill-away-painpoints.md",
+        "example-1.md"
+    ],
+    [
+        "executeable-whitepaper.md",
+        "charms-cont.md",
+        "charm-anatomy.md",
+        "charm-anatomy-2.md",
+        "charm-anatomy-3.md",
+        "charm-anatomy-4.md"
+    ],
+    [
+        "we-didnt-stop-there.md",
+        "bundles-orchestrate.md",
+        "big-bundles.md"
+    ],
+    "the-charm-store.md",
+    "thanks.md"
 ]
